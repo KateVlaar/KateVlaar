@@ -103,6 +103,32 @@ h2 {
     padding: 20px;
 }
 
+.summit {
+    width: 550px;
+    padding: 20px;
+}
+
+.hacked {
+    width: 550px;
+    padding: 20px;
+}
+
+.covid-sim {
+    width: 550px;
+    padding: 20px;
+}
+
+.technovation {
+    width: 550px;
+    padding: 20px;
+}
+
+.etsy {
+    width: 350px;
+    padding: 40px;
+    border-radius: 50%;
+}
+
 .projectHeader {
     text-align: center;
     /* padding-top: 20px;
